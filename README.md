@@ -1,4 +1,4 @@
-# 🧮 Modern Calculator Web App  
+# 📲 Modern Calculator Web App  
 
 A sleek and theme-switchable **Calculator App** built with **HTML**, **SCSS**, and **JavaScript**.  
 Designed for simplicity, accessibility, and a smooth user experience — perfect for both light and dark theme lovers.
